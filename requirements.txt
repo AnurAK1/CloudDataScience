@@ -1,0 +1,9 @@
+pylint
+pytest
+click
+black
+pytest-cov
+dash
+plotly
+plotly.express
+pandas
