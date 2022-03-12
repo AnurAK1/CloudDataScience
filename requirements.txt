@@ -1,7 +1,6 @@
 pylint
 pytest
 click
-black
 pytest-cov
 dash == 2.1.0
 plotly
