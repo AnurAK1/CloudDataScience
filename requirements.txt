@@ -2,6 +2,7 @@ pylint
 pytest
 click
 pytest-cov
+black
 dash == 2.1.0
 plotly
 plotly.express
