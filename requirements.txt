@@ -7,3 +7,4 @@ dash == 2.1.0
 plotly
 plotly.express
 pandas
+werkzeug == 2.0.3
